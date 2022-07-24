@@ -1,4 +1,4 @@
-Furkan Deniz Temel Sql Çalışmaları #patika.dev
+Furkan Deniz Temel Sql Çalışmaları 
 film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
 
